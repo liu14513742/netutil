@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorPrimaryTitleBar">#000000</color>
+    <color name="colorAccent">#97825c</color>
+    <color name="colorRed">#f91231</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="gray">#666666</color>
+    <color name="gray_light">#999999</color>
+    <color name="grey_58TR">#AA585858</color>
+
+    <color name="transparent">#0000</color>
+    <color name="transparentBlack">#00000000</color>
+    <color name="color_10000000">#50000000</color>
+    <color name="colorNotCheck">#909b9c9b</color>
+    <color name="colorNotCheckTwo">#eed5a7</color>
+    <color name="colorIsCheck">#bb9a56</color>
+    <color name="colorYellow">#bda477</color>
+    <color name="colorYellowM">#fff5ee</color>
+    <color name="software_textColor_selected">#e09105</color>
+    <color name="login_bottom_text_yellow">#d97401</color>
+    <color name="software_textColor_unselected">#e8d0a2</color>
+    <color name="backBround">#f0f0f0</color>
+    <color name="backBround_one">#eaeaea</color>
+    <color name="yellow">#FFA300</color>
+    <color name="huang">#97825c</color>
+    <color name="fontColor">#403728</color>
+    <color name="background_color">#f5f5f5</color>
+    <color name="transparent_background">#50000000</color>
+
+    <color name="line_gray">#cecece</color>
+    <color name="text_color">#757575</color>
+    <color name="lite_blue">#ff359ff2</color>
+    <color name="blue">#246B8F</color>
+
+    <color name="text_do_not_known">#97825c</color>
+    <color name="line_pop">#8f8f8f</color>
+    <color name="text_sure">#d1a14b</color>
+    <color name="pic_sure">#f4f4f4</color>
+    <color name="color_mine">#bbbbbb</color>
+    <color name="color_yellow_mine">#fde595</color>
+    <color name="color_yellow_s">#b98220</color>
+    <color name="color_yellow_m">#707070</color>
+    <color name="color_share">#eeeeee</color>
+    <color name="gray_search">#a6a6a6</color>
+    <color name="progress">#DCDCDC</color>
+    <color name="red">#FF0000</color>
+    <color name="font_gray">#737373</color>
+
+    <color name="hint_color">#BEC0C9</color>
+    <color name="edit_background">#F3F6FA</color>
+    <color name="color_999">#999999</color>
+    <color name="color_D30000">#D30000</color>
+    <color name="color_D80909">#D80909</color>
+    <color name="color_FF3B30">#FF3B30</color>
+    <color name="color_FBFBFB">#FBFBFB</color>
+    <color name="colorDefault">#ffffff</color>
+    <color name="colorBackground">#f1f0f6</color>
+    <color name="colorText">#9b9b9b</color>
+    <color name="myyellow">#FFA102</color>
+    <color name="textGray">#717171</color>
+    <color name="textqiangray">#e3e3e3</color>
+    <color name="lineGray">#F5F5F5</color>
+    <color name="CircleGray">#D9D9D9</color>
+    <color name="TitleBlack">#565656</color>
+    <color name="ScanleBackground">#E35D4C</color>
+    <color name="PlanGrayText">#7F7F7F</color>
+
+    <color name="translucent">#89CA35</color>
+    <color name="translucentTxt">#50FFB71C</color>
+
+    <color name="heart_default">#E48674</color>
+    <color name="fense">#F75680</color>
+    <color name="red_dark">#b12f3e</color>
+    <color name="top_fade">#46000000</color>
+
+
+    <color name="bmigreen">#89CA35</color>
+    <color name="bmiblue">#7ECEF4</color>
+    <color name="bmiyellow">#FFF45C</color>
+    <color name="bmiyellow2">#F39800</color>
+    <color name="bmired">#FF0000</color>
+    <color name="gary">#EFEFEF</color>
+    <color name="color_FE9F00">#FE9F00</color>
+    <color name="font_gray_zd">#f2f2f2</color>
+    <color name="color_666699">#666699</color>
+    <color name="color_B2B2B2">#B6B6B6</color>
+    <color name="color_50000000">#50000000</color>
+
+
+
+
+</resources>

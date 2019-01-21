@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">netUtil</string>
+    <string name="net_error">网络不稳定</string>
+    <string name="network_not_available">无法连接到网络，请检查网络配置</string>
+    <string name="opreation_failure">服务器访问异常，请稍后重试</string>
+    <string name="msg_opreation_timeout">与服务器连接超时，请稍后重试</string>
+</resources>
